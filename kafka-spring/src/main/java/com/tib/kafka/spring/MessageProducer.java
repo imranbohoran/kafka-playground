@@ -1,4 +1,4 @@
-package com.tib.kafka;
+package com.tib.kafka.spring;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
-import static com.tib.kafka.KafkaPlaygroundConstants.TOPIC_NAME;
+import static com.tib.kafka.spring.KafkaPlaygroundConstants.TOPIC_NAME;
 
 @Component
 public class MessageProducer {

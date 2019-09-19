@@ -1,4 +1,4 @@
-package com.tib.kafka;
+package com.tib.kafka.spring;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

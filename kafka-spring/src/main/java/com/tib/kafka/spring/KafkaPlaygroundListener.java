@@ -1,4 +1,4 @@
-package com.tib.kafka;
+package com.tib.kafka.spring;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.slf4j.Logger;
